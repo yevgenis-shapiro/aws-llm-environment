@@ -3,8 +3,7 @@
 
 ## AWS | LLM Environment 🚀🚀🚀
 This typically refers to running Kubernetes worker and master nodes as Docker containers, instead of as real VMs or machines.
-
-This model is used mostly in local development, testing, CI, or demo setups — not for production.
+This model is used mostly in local development and demo setup 🐳
 
 
 🎯  Key Features
