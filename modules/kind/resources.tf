@@ -86,12 +86,6 @@ controller:
   service:
     type: "LoadBalancer"
   watchIngressWithoutClass: true
-  #nodeSelector:
-  #  ingress-ready: "true"
-  #tolerations:
-  #  - key: "node-role.kubernetes.io/master"
-  #    operator: "Equal"
-  #    effect: "NoSchedule"
   publishService:
     enabled: false
   extraArgs:
