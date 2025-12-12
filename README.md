@@ -6,13 +6,13 @@ This typically refers to running Kubernetes worker and master nodes as Docker co
 This model is used mostly in local development and demo setup 🐳
 
 
-🎯  Key Features
+🎯  Architecture
 ```
-✅ Deploy Infrastructure
-✅ Launch EC2 Instance
-✅ Install Dependencies 
-✅ Prepare Kubernetes 
-✅ Cluster Post-Configuration
+✅ GitLab Code Repository
+✅ Terraform Core
+✅ Cloud Service Providers → AWS VM
+✅ Kubernetes (kind) Layer
+✅ LLM Processing Pipeline
 ```
 
 🚀 
