@@ -8,11 +8,11 @@ This model is used mostly in local development and demo setup 🐳
 
 🎯  Architecture
 ```
-✅ GitLab Code Repository
-✅ Terraform Core
-✅ Cloud Service Providers → AWS VM
-✅ Kubernetes (kind) Layer
-✅ LLM Processing Pipeline
+✅ Source Control (GitLab)
+✅ Infrastructure Orchestration Layer (Terraform Core)
+✅ Cloud Execution Layer → (AWS EC2)
+✅ Kubernetes Orchestration Layer (kind Cluster)
+✅ AI/ML Runtime Layer (LLM + Vector DB Stack)
 ```
 
 🚀 
