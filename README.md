@@ -2,7 +2,8 @@
 
 
 ## AWS | LLM Environment 🚀🚀🚀
-Blueprint: Fully Automated Infrastructure & LLM Application Platform
+Blueprint: Fully Automated Infrastructure & LLM Application Platform.
+
 A reference blueprint for end-to-end automation of infrastructure and AI application deployment using GitLab, Terraform, AWS, Kubernetes (kind), and an LLM-based RAG stack.
 Designed primarily for local development, rapid prototyping, and demo environments, this model ensures fast iteration, reproducibility, and a seamless developer experience. 🐳🤖
 
