@@ -2,17 +2,17 @@
 
 
 ## AWS | LLM Environment 🚀🚀🚀
-This typically refers to running Kubernetes worker and master nodes as Docker containers, instead of as real VMs or machines.
+Fully automated infrastructure and AI application deployment using GitLab, Terraform, AWS, Kubernetes (kind), and an LLM-based RAG stack.
 This model is used mostly in local development and demo setup 🐳
 
 
-🎯  Architecture
+⭐  Architecture
 ```
-✅ Source Control (GitLab)
-✅ Infrastructure Orchestration Layer (Terraform Core)
-✅ Cloud Execution Layer → (AWS EC2)
-✅ Kubernetes Orchestration Layer (kind Cluster)
-✅ AI/ML Runtime Layer (LLM + Vector DB Stack)
+✔️ Source Control (GitLab)
+✔️ Infrastructure Orchestration Layer (Terraform Core)
+✔️ Cloud Execution Layer → (AWS EC2)
+✔️ Kubernetes Orchestration Layer (kind Cluster)
+✔️ AI/ML Runtime Layer (LLM + Vector DB Stack) 
 ```
 
 🚀 
