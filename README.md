@@ -1,4 +1,5 @@
-<img width="1246" height="600" alt="image" src="https://github.com/user-attachments/assets/770f78f7-17b8-44bd-a793-aa6dc842d720" />
+<img width="1246" height="600" alt="image" src="https://github.com/user-attachments/assets/6e1bf1c7-5f33-4635-b26a-4de466314049" />
+
 
 ## AWS | LLM Environment 🚀🚀🚀
 Kind (Kubernetes IN Docker) is an open-source tool that allows you to run local Kubernetes clusters where each node is a Docker container.
