@@ -1,4 +1,4 @@
-<img width="1246" height="600" alt="image" src="https://github.com/user-attachments/assets/834a55d0-fc94-40f3-92e5-4515d962bc86" />
+<img width="1246" height="600" alt="image" src="https://github.com/user-attachments/assets/ff81a32d-8ed8-471c-8c4e-89b2b7d2014d" />
 
 
 ## AWS LLM Environment | Kind 🚀🚀🚀
