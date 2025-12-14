@@ -86,6 +86,13 @@ controller:
   service:
     type: "LoadBalancer"
   watchIngressWithoutClass: true
+  tolerations:
+  - key: "node-role.kubernetes.io/control-plane"
+    operator: "Exists"
+    effect: "NoSchedule"
+  # Optional: Use a node selector to *force* it onto the master node if others are available
+  nodeSelector:
+    node-role.kubernetes.io/control-plane: ""
   publishService:
     enabled: false
   extraArgs:
